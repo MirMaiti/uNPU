@@ -7,7 +7,7 @@ dataflow, with a DMA engine, control unit and APB register interface.
 | Stage | Result |
 |---|---|
 | RTL simulation (Xcelium) | 122 / 122 checks pass |
-| Synthesis (Design Compiler, SCL 180nm, ss corner) | Timing met at 15 ns clock (~66.7 MHz), 0 setup/hold violations |
+| Synthesis (Design Compiler, SCL 180nm, ss corner) | Timing met at 20 ns clock (50 MHz), 0 setup/hold violations |
 | Area | ~10.8k cells, ~0.31 mm² |
 | Gate-level simulation | 122 / 122 checks pass |
 | Floorplan, place and route | In progress |
