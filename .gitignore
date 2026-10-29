@@ -1,0 +1,14 @@
+xcelium.d/
+*.shm/
+.simvision/
+syn/work/
+syn/alib-*/
+syn/results/
+syn/reports/
+*.log
+*.history
+*.svf
+*.ddc
+*.db
+xrun.key
+.nfs*
